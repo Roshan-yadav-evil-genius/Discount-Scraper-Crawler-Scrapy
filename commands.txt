@@ -1,0 +1,2 @@
+scrapy genspider -t crawl todaysdeals "https://www.pricebefore.com/price-drops/?price-drop=todaysDeals"
+scrapy crawl todaysdeals
